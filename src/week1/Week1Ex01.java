@@ -17,6 +17,7 @@ public class Week1Ex01
         {
             System.out.println(n[i]);
         }
+        System.out.println("Part time");
     }
     
 }
